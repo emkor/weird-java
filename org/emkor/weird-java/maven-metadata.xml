@@ -3,9 +3,10 @@
   <groupId>org.emkor</groupId>
   <artifactId>weird-java</artifactId>
   <versioning>
+    <release>0.0.2</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20190429133213</lastUpdated>
+    <lastUpdated>20190429134004</lastUpdated>
   </versioning>
 </metadata>
